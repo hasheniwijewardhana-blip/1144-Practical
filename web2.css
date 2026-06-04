@@ -1,0 +1,48 @@
+.logo img{
+	width:60px;
+}
+
+h1,p{
+	text-align:center;
+}
+
+section{
+	padding:50px;
+	text-align:center;
+}
+	
+table{
+	margin:auto;
+	width:70%;
+	background-color:light yellow;
+	color:black;
+}
+
+img{
+	float:left;
+	width:300px;
+	margin-right:20px;
+}
+
+nav,ul{
+	list-style:none;
+	display:flex;
+	justify-content:flex-start;
+	gap:20px;
+	padding:0;
+	margin:0;
+}
+
+nav,ul,li,a{
+	text-decoration:none;
+	color:blue;
+}
+
+body{
+	background-image: url("C:\Users\hashe\Desktop\UOV\webpage 2\movieimage4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+}
