@@ -1,0 +1,17 @@
+h1{
+	color:lightgreen;
+	font-size:50px;
+	}
+h2{
+	font-size:100px;
+	color:red;
+	background-color:lightgreen;
+	padding:10px;
+	margin:30px;
+	}
+p{
+	margin:50px;
+	color:green;
+	font-size:30px;
+	bold:50px;
+	}
